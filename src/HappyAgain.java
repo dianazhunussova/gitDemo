@@ -3,6 +3,7 @@ public class HappyAgain {
         System.out.println("Today is Saturday");
 
         // tomorrow will be Sunday
+        // Sunday - fun day
 
 
     }
